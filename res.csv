@@ -1,0 +1,7 @@
+Model,Accuracy
+GaussianNB,75.7201646090535
+Logistic Regression,75.7201646090535
+Decision Tree Classifier,75.92252491242391
+KNeighborsClassifier,74.68455599768731
+Random Forest Classifier,79.21810699588477
+XGBoost,76.33234703941775
